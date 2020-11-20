@@ -1,0 +1,5 @@
+Data model
+
+slip model
+id
+advice
